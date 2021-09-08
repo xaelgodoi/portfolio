@@ -7726,7 +7726,7 @@ textarea.form-control-lg {
 
 .text-warning {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-gray-dark), var(--bs-text-opacity)) !important;
+  color: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;
 }
 
 .text-danger {
@@ -7817,7 +7817,7 @@ textarea.form-control-lg {
 
 .bg-warning {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-gray-dark), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-danger {
