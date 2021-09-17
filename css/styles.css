@@ -3056,8 +3056,8 @@ textarea.form-control-lg {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #171717;
+  border-color: #171717;
 }
 .btn-secondary:hover {
   color: #fff;
@@ -3080,8 +3080,8 @@ textarea.form-control-lg {
 }
 .btn-secondary:disabled, .btn-secondary.disabled {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #171717;
+  border-color: #171717;
 }
 
 .btn-success {
